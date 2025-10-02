@@ -89,3 +89,5 @@ print("Ответ на задание № 2: ")
 print(delete_user(admin_user, 'Чарли'))  # Должно отработать
 # print(delete_user(regular_user, 'Чарли')) # Должно рейзить PermissionError
 """ Изменение 1"""
+
+""" Изменил в GitHub"""
